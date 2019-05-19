@@ -1,2 +1,2 @@
-# RCM-PBB_E1
+# RCM-PBB
 RCM Power Buss Board, E1 version
