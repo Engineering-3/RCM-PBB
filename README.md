@@ -1,2 +1,6 @@
 # RCM-PBB
-RCM Power Buss Board, E1 version
+========================
+
+![RCM-PBB](http://engineering3.org/wp-content/uploads/GitHub/RCM-PBB.jpg)
+
+RCM Power Buss Board
